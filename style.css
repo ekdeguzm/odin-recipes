@@ -5,3 +5,8 @@ html {
 .text-shadow {
     text-shadow: #f4f741e3 3px 3px;
 }
+
+img {
+    height: auto;
+    width: 550px;
+}
