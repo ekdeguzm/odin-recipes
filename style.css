@@ -1,3 +1,7 @@
-html{
-    background-color: aquamarine;
+html {
+    background-color: burlywood;
+}
+
+.text-shadow {
+    text-shadow: #5d44d6 3px 3px;
 }
