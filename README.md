@@ -8,3 +8,4 @@ When it this project is completed, I hope to:
 * Successfully upload and view images 
 * Create links to lead to other pages
 * Organize my files in an efficient way
+* Utilize CSS to add a backgound color, center text, and manipulate font text and color

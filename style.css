@@ -2,9 +2,12 @@ html {
     background-color: burlywood;
 }
 
-.text-shadow {
-    text-shadow: #f4f741e3 3px 3px;
+.the-style {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.title {
+    text-shadow: #f4f741e3 3px 3px;
 
 img {
     height: auto;
